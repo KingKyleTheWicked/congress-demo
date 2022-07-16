@@ -1,0 +1,77 @@
+.list {
+    margin: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color:rgb(73, 71, 69);
+    border:solid black
+}
+
+.Politics {
+    margin: 16;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-rendering: auto;
+    background-color: rgb(73, 71, 69);
+    border:solid black
+}
+
+.Politics1 {
+    margin: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-rendering: auto;
+    background-color: rgb(73, 71, 69);
+    border:solid black
+}
+
+.paragraph {
+    margin: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align-last: center;
+    font-size: large;
+    text-decoration-color: aliceblue; background-color: rgb(73, 71, 69);
+    border:solid black
+}
+.pageHeader {
+    margin: 16px;
+    background-color:rgb(73, 71, 69) ;
+    border:solid black;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+ font-stretch: expanded;
+ padding: 20px;
+}
+.Person {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-rendering: auto;
+    background-color: rgb(73, 71, 69);
+    border:solid black;
+}
+body {
+    background: 
+    radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+  #fff;
+  background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+  background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+}
+img {
+    border-radius: 8px;
+    border: solid black;
+    border-width: thin;
+}
+
+nav {
+    overflow: hidden;
+    background-color: rgb(73, 71, 69);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border:solid black
+}
+
